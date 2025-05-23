@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "message": "Book review fetched successfully",
+    "data": [
+        {
+            "_id": "67de9f978829fb8a44216a34",
+            "author": {
+                "_id": "67de88da8829fb8a44216973",
+                "firstName": "Mueez",
+                "lastName": "khan",
+                "email": "mueezk542@gmail.com",
+                "phoneNumber": 3139240452,
+                "readingExperience": 2,
+                "profession": "Ms student",
+                "userImage": "https://api.dicebear.com/5.x/initials/svg?seed=Mueez-khan",
+                "studMajor": "Computer",
+                "dateOfBirth": "2000-11-08T00:00:00.000Z",
+                "profile": "67de88da8829fb8a44216971",
+                "friends": [],
+                "resetPasswordExpires": "2025-03-22T09:58:31.174Z",
+                "createdAt": "2025-03-22T09:54:34.463Z",
+                "__v": 0
+            },
+            "bookImage": "https://res.cloudinary.com/dnfnz7qf0/image/upload/v1742643096/bookImage/hrfljaaaioehbnrr6eh1.jpg",
+            "heading": "The Hunger Games",
+            "commentAboutBook": "hello g",
+            "ratting": 4,
+            "totalRatting": 0,
+            "createdAt": "2025-03-22T11:31:35.846Z",
+            "__v": 0
+        },
+        {
+            "_id": "67de9fb28829fb8a44216a3d",
+            "author": {
+                "_id": "67de88da8829fb8a44216973",
+                "firstName": "Mueez",
+                "lastName": "khan",
+                "email": "mueezk542@gmail.com",
+                "phoneNumber": 3139240452,
+                "readingExperience": 2,
+                "profession": "Ms student",
+                "userImage": "https://api.dicebear.com/5.x/initials/svg?seed=Mueez-khan",
+                "studMajor": "Computer",
+                "dateOfBirth": "2000-11-08T00:00:00.000Z",
+                "profile": "67de88da8829fb8a44216971",
+                "friends": [],
+                "resetPasswordExpires": "2025-03-22T09:58:31.174Z",
+                "createdAt": "2025-03-22T09:54:34.463Z",
+                "__v": 0
+            },
+            "bookImage": "https://res.cloudinary.com/dnfnz7qf0/image/upload/v1742643123/bookImage/f6wnkmziyklb5jr3zyrw.jpg",
+            "heading": "Very nice",
+            "commentAboutBook": "Tak tak tori nice",
+            "ratting": 5,
+            "totalRatting": 0,
+            "createdAt": "2025-03-22T11:32:02.292Z",
+            "__v": 0
+        }
+    ]
+}
